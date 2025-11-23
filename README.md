@@ -8,6 +8,6 @@ Build from source:
 
 git clone https://github.com/adeel26in/gosh.git
 
-cd src
+cd gosh/src
 
 go build # Do go run . if you just wanna run it!
